@@ -1,0 +1,32 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:oak_sapling"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"l",
+			"l",
+			"s"
+		],
+		"key": {
+			"l": {
+				"item": "minecraft:leaves",
+				"data": 0
+			},
+			"s": {
+				"item": "minecraft:stick"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:sapling",
+				"data": 0
+			}
+		]
+	}
+}

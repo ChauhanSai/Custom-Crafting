@@ -1,0 +1,27 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:deadbush"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:sapling",
+				"count": 1
+			},
+			{
+				"item": "minecraft:stick",
+				"count": 2
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:deadbush"
+			}
+		]
+	}
+}

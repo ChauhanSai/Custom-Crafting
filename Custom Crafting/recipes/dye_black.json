@@ -1,0 +1,27 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:dye_black"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"##"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:coal"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:dye",
+				"data": 16,
+				"count": 2
+			}
+		]
+	}
+}

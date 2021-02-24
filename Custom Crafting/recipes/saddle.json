@@ -1,0 +1,29 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:saddle"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"lli",
+			" il"
+		],
+		"key": {
+			"l": {
+				"item": "minecraft:leather"
+			},
+			"i": {
+				"item": "minecraft:iron_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:saddle"
+			}
+		]
+	}
+}

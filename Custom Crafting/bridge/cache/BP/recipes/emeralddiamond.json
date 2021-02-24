@@ -1,0 +1,262 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/emeralddiamond.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "ada6dd11_214d_4d3b_8a58_c6cecd087ae2",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:emeralddiamond"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"dgd",
+							"dgd",
+							"ddd"
+						],
+						"key": {
+							"d": {
+								"item": "minecraft:dye",
+								"data": 10
+							},
+							"g": {
+								"item": "minecraft:diamond"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:emerald"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:emeralddiamond"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"dgd",
+								"dgd",
+								"ddd"
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:dye",
+									"data": 10
+								},
+								"g": {
+									"item": "minecraft:diamond"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:emerald"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:emeralddiamond"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:emeralddiamond"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"dgd",
+								"dgd",
+								"ddd"
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:dye",
+									"data": 10
+								},
+								"g": {
+									"item": "minecraft:diamond"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:emerald"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:emeralddiamond"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"dgd",
+								"dgd",
+								"ddd"
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:dye",
+									"data": 10
+								},
+								"g": {
+									"item": "minecraft:diamond"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:emerald"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"dgd",
+							"dgd",
+							"ddd"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:emeralddiamond"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"dgd",
+								"dgd",
+								"ddd"
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:dye",
+									"data": 10
+								},
+								"g": {
+									"item": "minecraft:diamond"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:emerald"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"d": {
+										"item": "minecraft:dye",
+										"data": 10
+									},
+									"g": {
+										"item": "minecraft:diamond"
+									}
+								},
+								"key": "d",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dye",
+									"data": 10
+								}
+							},
+							{
+								"open": {
+									"d": {
+										"item": "minecraft:dye",
+										"data": 10
+									},
+									"g": {
+										"item": "minecraft:diamond"
+									}
+								},
+								"key": "g",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:diamond"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:emeralddiamond"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"dgd",
+								"dgd",
+								"ddd"
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:dye",
+									"data": 10
+								},
+								"g": {
+									"item": "minecraft:diamond"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:emerald"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:emerald"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:emerald"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

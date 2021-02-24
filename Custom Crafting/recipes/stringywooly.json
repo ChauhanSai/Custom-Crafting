@@ -1,0 +1,24 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:stringywooly"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:wool",
+				"data": 0
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:string",
+				"count": 4
+			}
+		]
+	}
+}

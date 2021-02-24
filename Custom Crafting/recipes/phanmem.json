@@ -1,0 +1,26 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:phanmem"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:dye",
+				"data": 19
+			},
+			{
+				"item": "minecraft:ender_eye"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:phantom_membrane"
+			}
+		]
+	}
+}

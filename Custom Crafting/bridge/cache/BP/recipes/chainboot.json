@@ -1,0 +1,192 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/chainboot.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "14663014_58cd_4ee7_9780_8222672a41e7",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:chainboot"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"X X",
+							"X X"
+						],
+						"key": {
+							"X": {
+								"item": "minecraft:chain"
+							}
+						},
+						"result": {
+							"item": "minecraft:chainmail_boots"
+						}
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:chainboot"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"X X",
+							"X X"
+						],
+						"key": {
+							"X": {
+								"item": "minecraft:chain"
+							}
+						},
+						"result": {
+							"item": "minecraft:chainmail_boots"
+						}
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainboot"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"X X",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_boots"
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:chainboot"
+						}
+					},
+					{
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainboot"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"X X",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_boots"
+							}
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"X X",
+							"X X"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainboot"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"X X",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_boots"
+							}
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"X": {
+										"item": "minecraft:chain"
+									}
+								},
+								"key": "X",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:chain"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainboot"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"X X",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_boots"
+							}
+						},
+						"key": "result",
+						"is_minified": true,
+						"children": {
+							"item": "minecraft:chainmail_boots"
+						}
+					}
+				]
+			}
+		]
+	}
+}

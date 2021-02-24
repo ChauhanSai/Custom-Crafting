@@ -1,0 +1,31 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:seaheart"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" d ",
+			"dsd",
+			" d "
+		],
+		"key": {
+			"d": {
+				"item": "minecraft:dye",
+				"data": 18
+			},
+			"s": {
+				"item": "minecraft:prismarine_shard"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:heart_of_the_sea"
+			}
+		]
+	}
+}

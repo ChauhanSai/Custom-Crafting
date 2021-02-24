@@ -1,0 +1,24 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:chainhead"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"XXX",
+			"X X"
+		],
+		"key": {
+			"X": {
+				"item": "minecraft:chain"
+			}
+		},
+		"result": {
+			"item": "minecraft:chainmail_helmet"
+		}
+	}
+}

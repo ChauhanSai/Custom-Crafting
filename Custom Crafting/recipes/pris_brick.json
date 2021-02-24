@@ -1,0 +1,28 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:pris_brick"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:prismarine",
+				"count": 1
+			},
+			{
+				"item": "minecraft:brick",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:prismarine",
+				"data": 2
+			}
+		]
+	}
+}

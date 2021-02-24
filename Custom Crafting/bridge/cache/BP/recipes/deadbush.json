@@ -1,0 +1,207 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/deadbush.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "a093d4a7_45c5_422a_9663_bc1475f0385d",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:deadbush"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:sapling",
+								"count": 1
+							},
+							{
+								"item": "minecraft:stick",
+								"count": 2
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:deadbush"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:deadbush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:sapling",
+									"count": 1
+								},
+								{
+									"item": "minecraft:stick",
+									"count": 2
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:deadbush"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:deadbush"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:deadbush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:sapling",
+									"count": 1
+								},
+								{
+									"item": "minecraft:stick",
+									"count": 2
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:deadbush"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:deadbush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:sapling",
+									"count": 1
+								},
+								{
+									"item": "minecraft:stick",
+									"count": 2
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:deadbush"
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:sapling",
+										"count": 1
+									},
+									{
+										"item": "minecraft:stick",
+										"count": 2
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:sapling",
+									"count": 1
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:sapling",
+										"count": 1
+									},
+									{
+										"item": "minecraft:stick",
+										"count": 2
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:stick",
+									"count": 2
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:deadbush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:sapling",
+									"count": 1
+								},
+								{
+									"item": "minecraft:stick",
+									"count": 2
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:deadbush"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:deadbush"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:deadbush"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

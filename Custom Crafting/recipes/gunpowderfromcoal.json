@@ -1,0 +1,27 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:gunpowderfromcoal"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" c ",
+			"ccc"
+		],
+		"key": {
+			"c": {
+				"item": "minecraft:coal"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:gunpowder",
+				"count": 3
+			}
+		]
+	}
+}

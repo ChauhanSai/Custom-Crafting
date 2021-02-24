@@ -1,0 +1,368 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\podzol.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "f83851b2_25a7_462d_9f1e_1eb38d9662b0",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:podzol"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							" r ",
+							"bbb",
+							"ddd"
+						],
+						"key": {
+							"r": {
+								"item": "minecraft:bucket",
+								"data": 8
+							},
+							"b": {
+								"item": "minecraft:brown_mushroom"
+							},
+							"d": {
+								"item": "minecraft:dirt",
+								"data": 0
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:podzol",
+								"count": 4
+							},
+							{
+								"item": "minecraft:bucket",
+								"data": 0
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:podzol"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" r ",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:bucket",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:brown_mushroom"
+								},
+								"d": {
+									"item": "minecraft:dirt",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:podzol",
+									"count": 4
+								},
+								{
+									"item": "minecraft:bucket",
+									"data": 0
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:podzol"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:podzol"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" r ",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:bucket",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:brown_mushroom"
+								},
+								"d": {
+									"item": "minecraft:dirt",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:podzol",
+									"count": 4
+								},
+								{
+									"item": "minecraft:bucket",
+									"data": 0
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:podzol"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" r ",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:bucket",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:brown_mushroom"
+								},
+								"d": {
+									"item": "minecraft:dirt",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:podzol",
+									"count": 4
+								},
+								{
+									"item": "minecraft:bucket",
+									"data": 0
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							" r ",
+							"bbb",
+							"ddd"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:podzol"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" r ",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:bucket",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:brown_mushroom"
+								},
+								"d": {
+									"item": "minecraft:dirt",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:podzol",
+									"count": 4
+								},
+								{
+									"item": "minecraft:bucket",
+									"data": 0
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"r": {
+										"item": "minecraft:bucket",
+										"data": 8
+									},
+									"b": {
+										"item": "minecraft:brown_mushroom"
+									},
+									"d": {
+										"item": "minecraft:dirt",
+										"data": 0
+									}
+								},
+								"key": "r",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							{
+								"open": {
+									"r": {
+										"item": "minecraft:bucket",
+										"data": 8
+									},
+									"b": {
+										"item": "minecraft:brown_mushroom"
+									},
+									"d": {
+										"item": "minecraft:dirt",
+										"data": 0
+									}
+								},
+								"key": "b",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:brown_mushroom"
+								}
+							},
+							{
+								"open": {
+									"r": {
+										"item": "minecraft:bucket",
+										"data": 8
+									},
+									"b": {
+										"item": "minecraft:brown_mushroom"
+									},
+									"d": {
+										"item": "minecraft:dirt",
+										"data": 0
+									}
+								},
+								"key": "d",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dirt",
+									"data": 0
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:podzol"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" r ",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:bucket",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:brown_mushroom"
+								},
+								"d": {
+									"item": "minecraft:dirt",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:podzol",
+									"count": 4
+								},
+								{
+									"item": "minecraft:bucket",
+									"data": 0
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:podzol",
+										"count": 4
+									},
+									{
+										"item": "minecraft:bucket",
+										"data": 0
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:podzol",
+									"count": 4
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:podzol",
+										"count": 4
+									},
+									{
+										"item": "minecraft:bucket",
+										"data": 0
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bucket",
+									"data": 0
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,31 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:red_mush"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"rrr",
+			"rrr",
+			" b "
+		],
+		"key": {
+			"r": {
+				"item": "minecraft:dye",
+				"data": 1
+			},
+			"b": {
+				"item": "minecraft:bone"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:red_mushroom"
+			}
+		]
+	}
+}

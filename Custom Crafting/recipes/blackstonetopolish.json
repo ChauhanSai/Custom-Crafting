@@ -1,0 +1,14 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "csccrafting:blackstonetopolish"
+		},
+		"tags": [
+			"furnace"
+		],
+		"input": "minecraft:blackstone",
+		"output": "minecraft:polished_blackstone"
+	}
+}

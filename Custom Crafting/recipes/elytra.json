@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:elytra"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"lsl",
+			"lll",
+			"l l"
+		],
+		"key": {
+			"l": {
+				"item": "minecraft:leather"
+			},
+			"s": {
+				"item": "minecraft:netherstar"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:elytra"
+			}
+		]
+	}
+}

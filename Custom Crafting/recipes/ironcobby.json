@@ -1,0 +1,33 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:ironcobby"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" s",
+			"fc",
+			" c"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:stick"
+			},
+			"f": {
+				"item": "minecraft:flint"
+			},
+			"c": {
+				"item": "minecraft:cobblestone"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:iron_ingot"
+			}
+		]
+	}
+}

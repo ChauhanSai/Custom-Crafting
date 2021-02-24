@@ -1,0 +1,292 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\brown_mush.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "58a3a624_f63f_401d_9e15_30283ff79309",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:brown_mush"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"rrr",
+							"rrr",
+							" b "
+						],
+						"key": {
+							"r": {
+								"item": "minecraft:dye",
+								"data": 8
+							},
+							"b": {
+								"item": "minecraft:bone"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:brown_mushroom"
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:brown_mush"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"rrr",
+							"rrr",
+							" b "
+						],
+						"key": {
+							"r": {
+								"item": "minecraft:dye",
+								"data": 8
+							},
+							"b": {
+								"item": "minecraft:bone"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:brown_mushroom"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:brown_mush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"rrr",
+								"rrr",
+								" b "
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:dye",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:bone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:brown_mushroom"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:brown_mush"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:brown_mush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"rrr",
+								"rrr",
+								" b "
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:dye",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:bone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:brown_mushroom"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:brown_mush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"rrr",
+								"rrr",
+								" b "
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:dye",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:bone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:brown_mushroom"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"rrr",
+							"rrr",
+							" b "
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:brown_mush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"rrr",
+								"rrr",
+								" b "
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:dye",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:bone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:brown_mushroom"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"r": {
+										"item": "minecraft:dye",
+										"data": 8
+									},
+									"b": {
+										"item": "minecraft:bone"
+									}
+								},
+								"key": "r",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dye",
+									"data": 8
+								}
+							},
+							{
+								"open": {
+									"r": {
+										"item": "minecraft:dye",
+										"data": 8
+									},
+									"b": {
+										"item": "minecraft:bone"
+									}
+								},
+								"key": "b",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bone"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:brown_mush"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"rrr",
+								"rrr",
+								" b "
+							],
+							"key": {
+								"r": {
+									"item": "minecraft:dye",
+									"data": 8
+								},
+								"b": {
+									"item": "minecraft:bone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:brown_mushroom"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:brown_mushroom"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:brown_mushroom"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

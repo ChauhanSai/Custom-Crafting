@@ -1,0 +1,31 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:kelp"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"gw",
+			"g "
+		],
+		"key": {
+			"g": {
+				"item": "minecraft:wheat_seeds",
+				"data": 0
+			},
+			"w": {
+				"item": "minecraft:bucket",
+				"data": 8
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:kelp"
+			}
+		]
+	}
+}

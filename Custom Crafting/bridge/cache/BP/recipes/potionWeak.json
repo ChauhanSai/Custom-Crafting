@@ -1,0 +1,206 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\potionWeak.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "cd9e11b8_a9a2_4d2f_ab6a_d2e9e14dd8df",
+	"file_version": 4,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:potionweak"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:potion",
+								"data": 0
+							},
+							{
+								"item": "minecraft:fermented_spider_eye"
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:potion",
+								"data": 34
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:potionweak"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:potion",
+									"data": 0
+								},
+								{
+									"item": "minecraft:fermented_spider_eye"
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:potion",
+									"data": 34
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:potionweak"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:potionweak"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:potion",
+									"data": 0
+								},
+								{
+									"item": "minecraft:fermented_spider_eye"
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:potion",
+									"data": 34
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:potionweak"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:potion",
+									"data": 0
+								},
+								{
+									"item": "minecraft:fermented_spider_eye"
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:potion",
+									"data": 34
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:potion",
+										"data": 0
+									},
+									{
+										"item": "minecraft:fermented_spider_eye"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:potion",
+									"data": 0
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:potion",
+										"data": 0
+									},
+									{
+										"item": "minecraft:fermented_spider_eye"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:fermented_spider_eye"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:potionweak"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:potion",
+									"data": 0
+								},
+								{
+									"item": "minecraft:fermented_spider_eye"
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:potion",
+									"data": 34
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:potion",
+										"data": 34
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:potion",
+									"data": 34
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

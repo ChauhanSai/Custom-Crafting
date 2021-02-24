@@ -1,0 +1,203 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/ironcoalblocky.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "598c5490_43b6_44c7_b80f_b291f62fb38f",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:ironcoalblocky"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"bbb"
+						],
+						"key": {
+							"b": {
+								"item": "minecraft:coal_block"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:iron_ingot"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:ironcoalblocky"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:coal_block"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:iron_ingot"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:ironcoalblocky"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:ironcoalblocky"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:coal_block"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:iron_ingot"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:ironcoalblocky"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:coal_block"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:iron_ingot"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"bbb"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:ironcoalblocky"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:coal_block"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:iron_ingot"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"b": {
+										"item": "minecraft:coal_block"
+									}
+								},
+								"key": "b",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:coal_block"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:ironcoalblocky"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:coal_block"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:iron_ingot"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:iron_ingot"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:iron_ingot"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

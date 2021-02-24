@@ -1,0 +1,31 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:emeralddiamond"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"dgd",
+			"dgd",
+			"ddd"
+		],
+		"key": {
+			"d": {
+				"item": "minecraft:dye",
+				"data": 10
+			},
+			"g": {
+				"item": "minecraft:diamond"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:emerald"
+			}
+		]
+	}
+}

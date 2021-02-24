@@ -1,0 +1,35 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:mbw"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"rr ",
+			"rmb",
+			" bb"
+		],
+		"key": {
+			"r": {
+				"item": "minecraft:red_mushroom"
+			},
+			"m": {
+				"item": "minecraft:dye",
+				"data": 19
+			},
+			"b": {
+				"item": "minecraft:brown_mushroom"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:brown_mushroom_block",
+				"data": 10
+			}
+		]
+	}
+}

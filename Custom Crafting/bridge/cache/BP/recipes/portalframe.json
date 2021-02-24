@@ -1,0 +1,303 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/portalframe.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "6c0f14a6_2f54_4a76_b9f3_cce009cc08da",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:portalframe"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							" e ",
+							"ooo",
+							"sss"
+						],
+						"key": {
+							"e": {
+								"item": "minecraft:ender_pearl"
+							},
+							"o": {
+								"item": "minecraft:obsidian"
+							},
+							"s": {
+								"item": "minecraft:end_stone"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:end_portal_frame",
+								"count": 2
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:portalframe"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" e ",
+								"ooo",
+								"sss"
+							],
+							"key": {
+								"e": {
+									"item": "minecraft:ender_pearl"
+								},
+								"o": {
+									"item": "minecraft:obsidian"
+								},
+								"s": {
+									"item": "minecraft:end_stone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:end_portal_frame",
+									"count": 2
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:portalframe"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:portalframe"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" e ",
+								"ooo",
+								"sss"
+							],
+							"key": {
+								"e": {
+									"item": "minecraft:ender_pearl"
+								},
+								"o": {
+									"item": "minecraft:obsidian"
+								},
+								"s": {
+									"item": "minecraft:end_stone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:end_portal_frame",
+									"count": 2
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:portalframe"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" e ",
+								"ooo",
+								"sss"
+							],
+							"key": {
+								"e": {
+									"item": "minecraft:ender_pearl"
+								},
+								"o": {
+									"item": "minecraft:obsidian"
+								},
+								"s": {
+									"item": "minecraft:end_stone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:end_portal_frame",
+									"count": 2
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							" e ",
+							"ooo",
+							"sss"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:portalframe"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" e ",
+								"ooo",
+								"sss"
+							],
+							"key": {
+								"e": {
+									"item": "minecraft:ender_pearl"
+								},
+								"o": {
+									"item": "minecraft:obsidian"
+								},
+								"s": {
+									"item": "minecraft:end_stone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:end_portal_frame",
+									"count": 2
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"e": {
+										"item": "minecraft:ender_pearl"
+									},
+									"o": {
+										"item": "minecraft:obsidian"
+									},
+									"s": {
+										"item": "minecraft:end_stone"
+									}
+								},
+								"key": "e",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:ender_pearl"
+								}
+							},
+							{
+								"open": {
+									"e": {
+										"item": "minecraft:ender_pearl"
+									},
+									"o": {
+										"item": "minecraft:obsidian"
+									},
+									"s": {
+										"item": "minecraft:end_stone"
+									}
+								},
+								"key": "o",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:obsidian"
+								}
+							},
+							{
+								"open": {
+									"e": {
+										"item": "minecraft:ender_pearl"
+									},
+									"o": {
+										"item": "minecraft:obsidian"
+									},
+									"s": {
+										"item": "minecraft:end_stone"
+									}
+								},
+								"key": "s",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:end_stone"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:portalframe"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" e ",
+								"ooo",
+								"sss"
+							],
+							"key": {
+								"e": {
+									"item": "minecraft:ender_pearl"
+								},
+								"o": {
+									"item": "minecraft:obsidian"
+								},
+								"s": {
+									"item": "minecraft:end_stone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:end_portal_frame",
+									"count": 2
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:end_portal_frame",
+										"count": 2
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:end_portal_frame",
+									"count": 2
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

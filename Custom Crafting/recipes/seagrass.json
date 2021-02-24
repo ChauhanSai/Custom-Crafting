@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:seagrass"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"gw"
+		],
+		"key": {
+			"g": {
+				"item": "minecraft:tallgrass",
+				"data": 0
+			},
+			"w": {
+				"item": "minecraft:bucket",
+				"data": 8
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:seagrass"
+			}
+		]
+	}
+}

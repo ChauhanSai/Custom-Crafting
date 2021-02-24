@@ -1,0 +1,241 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\yellowcoralblock.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "390c1f45_27a4_4e5f_93e9_53017517620e",
+	"file_version": 10,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:yellowcoralblock"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:leaves"
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 11,
+								"count": 4
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:coral_block",
+								"data": 4
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:yellowcoralblock"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:leaves"
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 11,
+								"count": 4
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:coral_block",
+								"data": 4
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:yellowcoralblock"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:leaves"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 4
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral_block",
+									"data": 4
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:yellowcoralblock"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:yellowcoralblock"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:leaves"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 4
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral_block",
+									"data": 4
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:yellowcoralblock"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:leaves"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 4
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral_block",
+									"data": 4
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:leaves"
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 11,
+										"count": 4
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:leaves"
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:leaves"
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 11,
+										"count": 4
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 4
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:yellowcoralblock"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:leaves"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 4
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral_block",
+									"data": 4
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:coral_block",
+										"data": 4
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:coral_block",
+									"data": 4
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

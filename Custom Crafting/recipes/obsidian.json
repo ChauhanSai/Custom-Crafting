@@ -1,0 +1,37 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:obsidian"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"bib",
+			"iii",
+			"dfd"
+		],
+		"key": {
+			"b": {
+				"item": "minecraft:dye",
+				"data": 0
+			},
+			"i": {
+				"item": "minecraft:iron_ingot"
+			},
+			"d": {
+				"item": "minecraft:diamond"
+			},
+			"f": {
+				"item": "minecraft:flint_and_steel"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:obsidian"
+			}
+		]
+	}
+}

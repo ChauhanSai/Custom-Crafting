@@ -1,0 +1,35 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:mycelium"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"rrr",
+			"bbb",
+			"ddd"
+		],
+		"key": {
+			"r": {
+				"item": "minecraft:red_mushroom"
+			},
+			"b": {
+				"item": "minecraft:brown_mushroom"
+			},
+			"d": {
+				"item": "minecraft:dirt",
+				"data": 0
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:mycelium",
+				"count": 4
+			}
+		]
+	}
+}

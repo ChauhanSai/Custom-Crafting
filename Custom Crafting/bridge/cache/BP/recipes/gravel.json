@@ -1,0 +1,241 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/gravel.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "b6aadb1e_4def_4e6d_bf19_663fdf089057",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:gravel"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:sand",
+								"count": 4
+							},
+							{
+								"item": "minecraft:dirt",
+								"count": 5
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:gravel",
+								"count": 5
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:gravel"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:sand",
+								"count": 4
+							},
+							{
+								"item": "minecraft:dirt",
+								"count": 5
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:gravel",
+								"count": 5
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:gravel"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:sand",
+									"count": 4
+								},
+								{
+									"item": "minecraft:dirt",
+									"count": 5
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:gravel",
+									"count": 5
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:gravel"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:gravel"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:sand",
+									"count": 4
+								},
+								{
+									"item": "minecraft:dirt",
+									"count": 5
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:gravel",
+									"count": 5
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:gravel"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:sand",
+									"count": 4
+								},
+								{
+									"item": "minecraft:dirt",
+									"count": 5
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:gravel",
+									"count": 5
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:sand",
+										"count": 4
+									},
+									{
+										"item": "minecraft:dirt",
+										"count": 5
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:sand",
+									"count": 4
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:sand",
+										"count": 4
+									},
+									{
+										"item": "minecraft:dirt",
+										"count": 5
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dirt",
+									"count": 5
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:gravel"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:sand",
+									"count": 4
+								},
+								{
+									"item": "minecraft:dirt",
+									"count": 5
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:gravel",
+									"count": 5
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:gravel",
+										"count": 5
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:gravel",
+									"count": 5
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

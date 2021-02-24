@@ -1,0 +1,35 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:discchirp"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" b ",
+			"ici",
+			" b "
+		],
+		"key": {
+			"b": {
+				"item": "minecraft:dye",
+				"data": 16
+			},
+			"i": {
+				"item": "minecraft:iron_ingot"
+			},
+			"c": {
+				"item": "minecraft:dye",
+				"data": 1
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:record_chirp"
+			}
+		]
+	}
+}

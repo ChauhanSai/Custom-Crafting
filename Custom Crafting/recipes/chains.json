@@ -1,0 +1,28 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:chains"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"i",
+			"i",
+			"i"
+		],
+		"key": {
+			"i": {
+				"item": "minecraft:iron_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:chain",
+				"count": 6
+			}
+		]
+	}
+}

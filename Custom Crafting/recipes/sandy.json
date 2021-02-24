@@ -1,0 +1,27 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:sandy"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:dirt",
+				"count": 8
+			},
+			{
+				"item": "minecraft:stick"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:sand",
+				"count": 6
+			}
+		]
+	}
+}

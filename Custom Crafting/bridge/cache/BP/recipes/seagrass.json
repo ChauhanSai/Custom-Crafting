@@ -1,0 +1,257 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/seagrass.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "43de6b34_cd15_4e95_abe7_4a44a5e20445",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:seagrass"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"gw"
+						],
+						"key": {
+							"g": {
+								"item": "minecraft:tallgrass",
+								"data": 0
+							},
+							"w": {
+								"item": "minecraft:bucket",
+								"data": 8
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:seagrass"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:seagrass"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"gw"
+							],
+							"key": {
+								"g": {
+									"item": "minecraft:tallgrass",
+									"data": 0
+								},
+								"w": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:seagrass"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:seagrass"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:seagrass"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"gw"
+							],
+							"key": {
+								"g": {
+									"item": "minecraft:tallgrass",
+									"data": 0
+								},
+								"w": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:seagrass"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:seagrass"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"gw"
+							],
+							"key": {
+								"g": {
+									"item": "minecraft:tallgrass",
+									"data": 0
+								},
+								"w": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:seagrass"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"gw"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:seagrass"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"gw"
+							],
+							"key": {
+								"g": {
+									"item": "minecraft:tallgrass",
+									"data": 0
+								},
+								"w": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:seagrass"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"g": {
+										"item": "minecraft:tallgrass",
+										"data": 0
+									},
+									"w": {
+										"item": "minecraft:bucket",
+										"data": 8
+									}
+								},
+								"key": "g",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:tallgrass",
+									"data": 0
+								}
+							},
+							{
+								"open": {
+									"g": {
+										"item": "minecraft:tallgrass",
+										"data": 0
+									},
+									"w": {
+										"item": "minecraft:bucket",
+										"data": 8
+									}
+								},
+								"key": "w",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:seagrass"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"gw"
+							],
+							"key": {
+								"g": {
+									"item": "minecraft:tallgrass",
+									"data": 0
+								},
+								"w": {
+									"item": "minecraft:bucket",
+									"data": 8
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:seagrass"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:seagrass"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:seagrass"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

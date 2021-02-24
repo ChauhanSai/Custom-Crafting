@@ -1,0 +1,241 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\yellowcoralfan.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "d6d8b01c_b5cd_41ae_8197_4664336e0743",
+	"file_version": 9,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:yellowcoralfan"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:tallgrass"
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 11,
+								"count": 2
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:coral_fan",
+								"data": 4
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:yellowcoralfan"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:tallgrass"
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 11,
+								"count": 2
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:coral_fan",
+								"data": 4
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:yellowcoralfan"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 2
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral_fan",
+									"data": 4
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:yellowcoralfan"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:yellowcoralfan"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 2
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral_fan",
+									"data": 4
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:yellowcoralfan"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 2
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral_fan",
+									"data": 4
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:tallgrass"
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 11,
+										"count": 2
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:tallgrass"
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:tallgrass"
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 11,
+										"count": 2
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 2
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:yellowcoralfan"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 11,
+									"count": 2
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral_fan",
+									"data": 4
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:coral_fan",
+										"data": 4
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:coral_fan",
+									"data": 4
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

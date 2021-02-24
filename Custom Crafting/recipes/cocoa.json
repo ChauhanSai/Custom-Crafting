@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:cocoa"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"sp",
+			"ss"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:wheat_seeds"
+			},
+			"p": {
+				"item": "minecraft:stick"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:dye",
+				"data": 3
+			}
+		]
+	}
+}

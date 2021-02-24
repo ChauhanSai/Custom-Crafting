@@ -1,0 +1,32 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:endstone"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"eee",
+			"ese",
+			"eee"
+		],
+		"key": {
+			"e": {
+				"item": "minecraft:ender_pearl"
+			},
+			"s": {
+				"item": "minecraft:stone",
+				"data": 0
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:end_stone",
+				"data": 4
+			}
+		]
+	}
+}

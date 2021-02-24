@@ -1,0 +1,27 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:potionwater"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:potion",
+				"data": 4
+			},
+			{
+				"item": "minecraft:pufferfish"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:potion",
+				"data": 19
+			}
+		]
+	}
+}

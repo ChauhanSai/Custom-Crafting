@@ -1,0 +1,224 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\crimroots.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "ef4deb76_a98c_46c4_a011_2201bfa2cf3e",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:crimroots"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:tallgrass"
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 1
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:crimson_roots"
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:crimroots"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:tallgrass"
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 1
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:crimson_roots"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimroots"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:crimson_roots"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:crimroots"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimroots"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:crimson_roots"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimroots"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:crimson_roots"
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:tallgrass"
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:tallgrass"
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:tallgrass"
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimroots"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:crimson_roots"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:crimson_roots"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:crimson_roots"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

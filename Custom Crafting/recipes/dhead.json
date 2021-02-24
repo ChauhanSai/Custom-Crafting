@@ -1,0 +1,31 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:dhead"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" i ",
+			"iei",
+			" i "
+		],
+		"key": {
+			"i": {
+				"item": "minecraft:dragon_breath"
+			},
+			"e": {
+				"item": "minecraft:dragon_egg"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:skull",
+				"data": 5
+			}
+		]
+	}
+}

@@ -1,0 +1,32 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:witherrose"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"bbb",
+			"brb",
+			"bbb"
+		],
+		"key": {
+			"b": {
+				"item": "minecraft:dye",
+				"data": 16
+			},
+			"r": {
+				"item": "minecraft:red_flower",
+				"data": 0
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:wither_rose"
+			}
+		]
+	}
+}

@@ -1,0 +1,282 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/lharmor.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "f44400a4_e942_47e1_bb18_65803bba6b95",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:lharmor"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"  i",
+							"isi",
+							"i i"
+						],
+						"key": {
+							"i": {
+								"item": "minecraft:leather"
+							},
+							"s": {
+								"item": "minecraft:saddle"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:horsearmorleather"
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:lharmor"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"  i",
+							"isi",
+							"i i"
+						],
+						"key": {
+							"i": {
+								"item": "minecraft:leather"
+							},
+							"s": {
+								"item": "minecraft:saddle"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:horsearmorleather"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:lharmor"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"  i",
+								"isi",
+								"i i"
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:leather"
+								},
+								"s": {
+									"item": "minecraft:saddle"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:horsearmorleather"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:lharmor"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:lharmor"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"  i",
+								"isi",
+								"i i"
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:leather"
+								},
+								"s": {
+									"item": "minecraft:saddle"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:horsearmorleather"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:lharmor"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"  i",
+								"isi",
+								"i i"
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:leather"
+								},
+								"s": {
+									"item": "minecraft:saddle"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:horsearmorleather"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"  i",
+							"isi",
+							"i i"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:lharmor"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"  i",
+								"isi",
+								"i i"
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:leather"
+								},
+								"s": {
+									"item": "minecraft:saddle"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:horsearmorleather"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"i": {
+										"item": "minecraft:leather"
+									},
+									"s": {
+										"item": "minecraft:saddle"
+									}
+								},
+								"key": "i",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:leather"
+								}
+							},
+							{
+								"open": {
+									"i": {
+										"item": "minecraft:leather"
+									},
+									"s": {
+										"item": "minecraft:saddle"
+									}
+								},
+								"key": "s",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:saddle"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:lharmor"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"  i",
+								"isi",
+								"i i"
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:leather"
+								},
+								"s": {
+									"item": "minecraft:saddle"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:horsearmorleather"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:horsearmorleather"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:horsearmorleather"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

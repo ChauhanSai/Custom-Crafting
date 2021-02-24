@@ -1,0 +1,24 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:greendye2"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:leaves2",
+				"count": 9
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:dye",
+				"data": 2
+			}
+		]
+	}
+}

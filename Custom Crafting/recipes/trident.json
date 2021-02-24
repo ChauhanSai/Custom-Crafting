@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:trident"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" ii",
+			" si",
+			"s  "
+		],
+		"key": {
+			"i": {
+				"item": "minecraft:iron_ingot"
+			},
+			"s": {
+				"item": "minecraft:prismarine_shard"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:trident"
+			}
+		]
+	}
+}

@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:totem"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ege",
+			"ggg",
+			" g "
+		],
+		"key": {
+			"e": {
+				"item": "minecraft:emerald"
+			},
+			"g": {
+				"item": "minecraft:gold_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:totem"
+			}
+		]
+	}
+}

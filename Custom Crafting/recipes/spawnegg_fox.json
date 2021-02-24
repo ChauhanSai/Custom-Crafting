@@ -1,0 +1,39 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:spawnegg_fox"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"mim",
+			"ses",
+			"mim"
+		],
+		"key": {
+			"m": {
+				"item": "minecraft:dye",
+				"data": "14"
+			},
+			"s": {
+				"item": "minecraft:dye",
+				"data": "11"
+			},
+			"e": {
+				"item": "minecraft:egg"
+			},
+			"i": {
+				"item": "minecraft:chicken"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:spawn_egg",
+				"data": "121"
+			}
+		]
+	}
+}

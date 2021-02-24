@@ -1,0 +1,563 @@
+{
+	"BP/manifest.json": {
+		"data": {}
+	},
+	"BP/recipes/name_tag.json": {
+		"data": {}
+	},
+	"BP/recipes/stone_brick.json": {
+		"data": {}
+	},
+	"BP/recipes/obsidian.json": {
+		"data": {}
+	},
+	"BP/recipes/oak_sapling.json": {
+		"data": {}
+	},
+	"BP/recipes/spruce_sapling.json": {
+		"data": {}
+	},
+	"BP/recipes/birch_sapling.json": {
+		"data": {}
+	},
+	"BP/recipes/jungle_sapling.json": {
+		"data": {}
+	},
+	"BP/recipes/acacia_sapling.json": {
+		"data": {}
+	},
+	"BP/recipes/darkoak_sapling.json": {
+		"data": {}
+	},
+	"BP/recipes/red_mush.json": {
+		"data": {}
+	},
+	"BP/recipes/brown_mush.json": {
+		"data": {}
+	},
+	"BP/recipes/zhead.json": {
+		"data": {}
+	},
+	"BP/recipes/phead.json": {
+		"data": {}
+	},
+	"BP/recipes/chead.json": {
+		"data": {}
+	},
+	"BP/recipes/dhead.json": {
+		"data": {}
+	},
+	"BP/recipes/shead.json": {
+		"data": {}
+	},
+	"BP/recipes/whead.json": {
+		"data": {}
+	},
+	"BP/recipes/nether_brick.json": {
+		"data": {}
+	},
+	"BP/recipes/rnether_brick.json": {
+		"data": {}
+	},
+	"BP/recipes/rnether_brick2.json": {
+		"data": {}
+	},
+	"BP/recipes/nether_brick2.json": {
+		"data": {}
+	},
+	"BP/recipes/rnether_brick3.json": {
+		"data": {}
+	},
+	"BP/recipes/rnether_brick4.json": {
+		"data": {}
+	},
+	"BP/recipes/pris_brick.json": {
+		"data": {}
+	},
+	"BP/recipes/end_brick.json": {
+		"data": {}
+	},
+	"BP/recipes/trident.json": {
+		"data": {}
+	},
+	"BP/recipes/webs.json": {
+		"data": {}
+	},
+	"BP/recipes/sball.json": {
+		"data": {}
+	},
+	"BP/recipes/saddle.json": {
+		"data": {}
+	},
+	"BP/recipes/lharmor.json": {
+		"data": {}
+	},
+	"BP/recipes/iharmor.json": {
+		"data": {}
+	},
+	"BP/recipes/gharmor.json": {
+		"data": {}
+	},
+	"BP/recipes/dharmor.json": {
+		"data": {}
+	},
+	"BP/recipes/wartblock.json": {
+		"data": {}
+	},
+	"BP/recipes/wwartblock.json": {
+		"data": {}
+	},
+	"BP/recipes/witherrose.json": {
+		"data": {}
+	},
+	"BP/recipes/meltsnow.json": {
+		"data": {}
+	},
+	"BP/recipes/meltsnow2.json": {
+		"data": {}
+	},
+	"BP/recipes/spawner.json": {
+		"data": {}
+	},
+	"BP/recipes/diamond.json": {
+		"data": {}
+	},
+	"BP/recipes/flintgravel.json": {
+		"data": {}
+	},
+	"BP/recipes/bluecoralfan.json": {
+		"data": {}
+	},
+	"BP/recipes/bluecoral.json": {
+		"data": {}
+	},
+	"BP/recipes/bluecoralblock.json": {
+		"data": {}
+	},
+	"BP/recipes/pinkcoral.json": {
+		"data": {}
+	},
+	"BP/recipes/pinkcoralfan.json": {
+		"data": {}
+	},
+	"BP/recipes/pinkcoralblock.json": {
+		"data": {}
+	},
+	"BP/recipes/purplecoral.json": {
+		"data": {}
+	},
+	"BP/recipes/purplecoralfan.json": {
+		"data": {}
+	},
+	"BP/recipes/purplecoralblock.json": {
+		"data": {}
+	},
+	"BP/recipes/redcoral.json": {
+		"data": {}
+	},
+	"BP/recipes/redcoralfan.json": {
+		"data": {}
+	},
+	"BP/recipes/redcoralblock.json": {
+		"data": {}
+	},
+	"BP/recipes/yellowcoral.json": {
+		"data": {}
+	},
+	"BP/recipes/yellowcoralfan.json": {
+		"data": {}
+	},
+	"BP/recipes/yellowcoralblock.json": {
+		"data": {}
+	},
+	"BP/recipes/star.json": {
+		"data": {}
+	},
+	"BP/recipes/shulkerhead.json": {
+		"data": {}
+	},
+	"BP/recipes/totem.json": {
+		"data": {}
+	},
+	"BP/recipes/mycelium.json": {
+		"data": {}
+	},
+	"BP/recipes/endstone.json": {
+		"data": {}
+	},
+	"BP/recipes/portalframe.json": {
+		"data": {}
+	},
+	"BP/recipes/elytra.json": {
+		"data": {}
+	},
+	"BP/recipes/bedrock.json": {
+		"data": {}
+	},
+	"BP/recipes/greendye.json": {
+		"data": {}
+	},
+	"BP/recipes/greendye2.json": {
+		"data": {}
+	},
+	"BP/recipes/gravel.json": {
+		"data": {}
+	},
+	"BP/recipes/coarsedirt.json": {
+		"data": {}
+	},
+	"BP/recipes/podzol.json": {
+		"data": {}
+	},
+	"BP/recipes/grass.json": {
+		"data": {}
+	},
+	"BP/recipes/chains.json": {
+		"data": {}
+	},
+	"BP/recipes/chainhead.json": {
+		"data": {}
+	},
+	"BP/recipes/chainchest.json": {
+		"data": {}
+	},
+	"BP/recipes/chainleg.json": {
+		"data": {}
+	},
+	"BP/recipes/chainboot.json": {
+		"data": {}
+	},
+	"BP/recipes/fern.json": {
+		"data": {}
+	},
+	"BP/recipes/tallgrass.json": {
+		"data": {}
+	},
+	"BP/recipes/vine.json": {
+		"data": {}
+	},
+	"BP/recipes/deadbush.json": {
+		"data": {}
+	},
+	"BP/recipes/deadbush2.json": {
+		"data": {}
+	},
+	"BP/recipes/canesugar.json": {
+		"data": {}
+	},
+	"BP/recipes/uncry.json": {
+		"data": {}
+	},
+	"BP/recipes/sponge.json": {
+		"data": {}
+	},
+	"BP/recipes/ice.json": {
+		"data": {}
+	},
+	"BP/recipes/snow.json": {
+		"data": {}
+	},
+	"BP/recipes/ice2.json": {
+		"data": {}
+	},
+	"BP/recipes/packed_ice.json": {
+		"data": {}
+	},
+	"BP/recipes/cocoa.json": {
+		"data": {}
+	},
+	"BP/recipes/planks.json": {
+		"data": {}
+	},
+	"BP/recipes/disc11.json": {
+		"data": {}
+	},
+	"BP/recipes/disc13.json": {
+		"data": {}
+	},
+	"BP/recipes/discBlocks.json": {
+		"data": {}
+	},
+	"BP/recipes/discCat.json": {
+		"data": {}
+	},
+	"BP/recipes/discChirp.json": {
+		"data": {}
+	},
+	"BP/recipes/discFar.json": {
+		"data": {}
+	},
+	"BP/recipes/discMall.json": {
+		"data": {}
+	},
+	"BP/recipes/discMellohi.json": {
+		"data": {}
+	},
+	"BP/recipes/discPigstep.json": {
+		"data": {}
+	},
+	"BP/recipes/discStal.json": {
+		"data": {}
+	},
+	"BP/recipes/discStrad.json": {
+		"data": {}
+	},
+	"BP/recipes/discWait.json": {
+		"data": {}
+	},
+	"BP/recipes/discWard.json": {
+		"data": {}
+	},
+	"BP/recipes/potionAwkward.json": {
+		"data": {}
+	},
+	"BP/recipes/potionNightVision.json": {
+		"data": {}
+	},
+	"BP/recipes/potionInvis.json": {
+		"data": {}
+	},
+	"BP/recipes/potionLeaping.json": {
+		"data": {}
+	},
+	"BP/recipes/potionFireRes.json": {
+		"data": {}
+	},
+	"BP/recipes/potionSpeed.json": {
+		"data": {}
+	},
+	"BP/recipes/potionSlow.json": {
+		"data": {}
+	},
+	"BP/recipes/potionWater.json": {
+		"data": {}
+	},
+	"BP/recipes/potionHeal.json": {
+		"data": {}
+	},
+	"BP/recipes/potionHarm.json": {
+		"data": {}
+	},
+	"BP/recipes/potionPoison.json": {
+		"data": {}
+	},
+	"BP/recipes/potionRegen.json": {
+		"data": {}
+	},
+	"BP/recipes/potionStrength.json": {
+		"data": {}
+	},
+	"BP/recipes/potionWeak.json": {
+		"data": {}
+	},
+	"BP/recipes/potionDecay.json": {
+		"data": {}
+	},
+	"BP/recipes/potionHarm2.json": {
+		"data": {}
+	},
+	"BP/recipes/potionSlow2.json": {
+		"data": {}
+	},
+	"BP/recipes/rabbitfoot.json": {
+		"data": {}
+	},
+	"BP/recipes/rabbithide.json": {
+		"data": {}
+	},
+	"BP/recipes/snow2.json": {
+		"data": {}
+	},
+	"BP/recipes/crimstem.json": {
+		"data": {}
+	},
+	"BP/recipes/crimstem2.json": {
+		"data": {}
+	},
+	"BP/recipes/crimnylium.json": {
+		"data": {}
+	},
+	"BP/recipes/crimroots.json": {
+		"data": {}
+	},
+	"BP/recipes/crimvines.json": {
+		"data": {}
+	},
+	"BP/recipes/crimshroom.json": {
+		"data": {}
+	},
+	"BP/recipes/crimshroom2.json": {
+		"data": {}
+	},
+	"BP/recipes/netherrack.json": {
+		"data": {}
+	},
+	"BP/recipes/blackstone.json": {
+		"data": {}
+	},
+	"BP/recipes/seagrass.json": {
+		"data": {}
+	},
+	"BP/recipes/kelp.json": {
+		"data": {}
+	},
+	"BP/recipes/dkelp.json": {
+		"data": {}
+	},
+	"BP/recipes/bamboo.json": {
+		"data": {}
+	},
+	"BP/recipes/mbl.json": {
+		"data": {}
+	},
+	"BP/recipes/mbw.json": {
+		"data": {}
+	},
+	"BP/recipes/mbb.json": {
+		"data": {}
+	},
+	"BP/recipes/mbr.json": {
+		"data": {}
+	},
+	"BP/recipes/stone_axe.json": {
+		"data": {}
+	},
+	"BP/recipes/spawnegg_.json": {
+		"data": {}
+	},
+	"BP/recipes/leatherflesh.json": {
+		"data": {}
+	},
+	"BP/recipes/ironnuggetcoal.json": {
+		"data": {}
+	},
+	"BP/recipes/planksfurn.json": {
+		"data": {}
+	},
+	"BP/recipes/stringywooly.json": {
+		"data": {}
+	},
+	"BP/recipes/dehydratewool.json": {
+		"data": {}
+	},
+	"BP/recipes/prismarineshard.json": {
+		"data": {}
+	},
+	"BP/recipes/prismarinecrystals.json": {
+		"data": {}
+	},
+	"BP/recipes/nautilusshell.json": {
+		"data": {}
+	},
+	"BP/recipes/seaheart.json": {
+		"data": {}
+	},
+	"BP/recipes/prismarineshardcrystal.json": {
+		"data": {}
+	},
+	"BP/recipes/emeralddiamond.json": {
+		"data": {}
+	},
+	"BP/texts/languages.json": {
+		"data": {}
+	},
+	"BP/recipes/gildedgold.json": {
+		"data": {}
+	},
+	"BP/recipes/sapplanks.json": {
+		"data": {}
+	},
+	"BP/recipes/netheriteingotfromblock.json": {
+		"data": {}
+	},
+	"BP/recipes/phanmem.json": {
+		"data": {}
+	},
+	"BP/recipes/endyeye.json": {
+		"data": {}
+	},
+	"BP/recipes/dioritec.json": {
+		"data": {}
+	},
+	"BP/recipes/andesitec.json": {
+		"data": {}
+	},
+	"BP/recipes/granitec.json": {
+		"data": {}
+	},
+	"BP/recipes/diamonddye.json": {
+		"data": {}
+	},
+	"BP/recipes/golddye.json": {
+		"data": {}
+	},
+	"BP/recipes/diamondemerald.json": {
+		"data": {}
+	},
+	"BP/recipes/irongoldingy.json": {
+		"data": {}
+	},
+	"BP/recipes/ironcoalblocky.json": {
+		"data": {}
+	},
+	"BP/recipes/ironcobby.json": {
+		"data": {}
+	},
+	"BP/recipes/sandy.json": {
+		"data": {}
+	},
+	"BP/recipes/dirty.json": {
+		"data": {}
+	},
+	"BP/recipes/soulsandy.json": {
+		"data": {}
+	},
+	"BP/recipes/glowstonedust.json": {
+		"data": {}
+	},
+	"BP/recipes/redstonedust.json": {
+		"data": {}
+	},
+	"BP/recipes/blazerod.json": {
+		"data": {}
+	},
+	"BP/recipes/quartzcoal.json": {
+		"data": {}
+	},
+	"BP/recipes/flintfromcoal.json": {
+		"data": {}
+	},
+	"BP/recipes/dirty2.json": {
+		"data": {}
+	},
+	"BP/recipes/charcoalblock.json": {
+		"data": {}
+	},
+	"BP/recipes/flintfromchar.json": {
+		"data": {}
+	},
+	"BP/recipes/gunpowderfromcoal.json": {
+		"data": {}
+	},
+	"BP/recipes/gunpowderfromcharcoal.json": {
+		"data": {}
+	},
+	"BP/recipes/fireworkfromblaze.json": {
+		"data": {}
+	},
+	"BP/recipes/orangefromblazepowder.json": {
+		"data": {}
+	},
+	"BP/recipes/watercolor18.json": {
+		"data": {}
+	},
+	"BP/recipes/ironnuggetfromstone.json": {
+		"data": {}
+	},
+	"BP/recipes/blackstonetopolish.json": {
+		"data": {}
+	},
+	"BP/recipes/dye_.json": {
+		"data": {}
+	}
+}

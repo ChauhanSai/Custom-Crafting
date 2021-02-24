@@ -1,0 +1,286 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\rnether_brick.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "ecb28e50_e63c_49f1_80ff_1aa152e564fe",
+	"file_version": 7,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:rnether_brick"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:netherrack",
+								"count": 1
+							},
+							{
+								"item": "minecraft:brick",
+								"count": 1
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 1
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:red_nether_brick"
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:rnether_brick"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:netherrack",
+								"count": 1
+							},
+							{
+								"item": "minecraft:brick",
+								"count": 1
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 1
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:red_nether_brick"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:rnether_brick"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:netherrack",
+									"count": 1
+								},
+								{
+									"item": "minecraft:brick",
+									"count": 1
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:red_nether_brick"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:rnether_brick"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:rnether_brick"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:netherrack",
+									"count": 1
+								},
+								{
+									"item": "minecraft:brick",
+									"count": 1
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:red_nether_brick"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:rnether_brick"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:netherrack",
+									"count": 1
+								},
+								{
+									"item": "minecraft:brick",
+									"count": 1
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:red_nether_brick"
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:netherrack",
+										"count": 1
+									},
+									{
+										"item": "minecraft:brick",
+										"count": 1
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:netherrack",
+									"count": 1
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:netherrack",
+										"count": 1
+									},
+									{
+										"item": "minecraft:brick",
+										"count": 1
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:brick",
+									"count": 1
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:netherrack",
+										"count": 1
+									},
+									{
+										"item": "minecraft:brick",
+										"count": 1
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:rnether_brick"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:netherrack",
+									"count": 1
+								},
+								{
+									"item": "minecraft:brick",
+									"count": 1
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 1
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:red_nether_brick"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:red_nether_brick"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:red_nether_brick"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

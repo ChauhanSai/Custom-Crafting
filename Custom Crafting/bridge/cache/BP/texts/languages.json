@@ -1,0 +1,15 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\texts\\languages.json",
+	"file_type": "lang_def",
+	"format_version": 1,
+	"file_uuid": "ead16455_2a61_445a_9795_e9808c828034",
+	"file_version": 0,
+	"cache_content": {
+		"is_minified": true,
+		"children": [
+			"en_US",
+			"en_GB",
+			"es_MX"
+		]
+	}
+}

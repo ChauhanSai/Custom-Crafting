@@ -1,0 +1,29 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:shulkerhead"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"sls",
+			"sss"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:purpur_block"
+			},
+			"l": {
+				"item": "minecraft:leather"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:shulker_shell"
+			}
+		]
+	}
+}

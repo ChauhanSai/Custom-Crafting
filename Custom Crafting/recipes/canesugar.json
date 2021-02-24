@@ -1,0 +1,27 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:canesugar"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"s",
+			"s",
+			"s"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sugar"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:reeds"
+			}
+		]
+	}
+}

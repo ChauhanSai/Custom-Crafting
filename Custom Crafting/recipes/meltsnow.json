@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:meltsnow"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:bucket",
+				"data": 0
+			},
+			{
+				"item": "minecraft:torch"
+			},
+			{
+				"item": "minecraft:snowball"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:bucket",
+				"data": 8
+			}
+		]
+	}
+}

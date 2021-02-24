@@ -1,0 +1,32 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:vine"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"g",
+			"s",
+			"g"
+		],
+		"key": {
+			"g": {
+				"item": "minecraft:tallgrass",
+				"data": 1
+			},
+			"s": {
+				"item": "minecraft:stick"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:vine",
+				"count": 2
+			}
+		]
+	}
+}

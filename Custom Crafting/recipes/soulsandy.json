@@ -1,0 +1,39 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:soulsandy"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"scb"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sand"
+			},
+			"c": {
+				"item": "minecraft:coal"
+			},
+			"b": {
+				"item": "minecraft:bucket",
+				"data": 8,
+				"count": 1
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:soul_sand",
+				"count": 2
+			},
+			{
+				"item": "minecraft:bucket",
+				"data": 0,
+				"count": 1
+			}
+		]
+	}
+}

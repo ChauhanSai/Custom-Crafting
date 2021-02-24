@@ -1,0 +1,14 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "csccrafting:ironnuggetfromstone"
+		},
+		"tags": [
+			"blast_furnace"
+		],
+		"input": "minecraft:stone:0",
+		"output": "minecraft:iron_nugget"
+	}
+}

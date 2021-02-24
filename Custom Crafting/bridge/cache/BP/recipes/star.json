@@ -1,0 +1,282 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/star.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "34aeae7f_df87_420d_a470_b6e7be18e6bf",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:star"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							" d ",
+							"dgd",
+							" d "
+						],
+						"key": {
+							"d": {
+								"item": "minecraft:diamond_block"
+							},
+							"g": {
+								"item": "minecraft:glowstone"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:netherstar"
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:star"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							" d ",
+							"dgd",
+							" d "
+						],
+						"key": {
+							"d": {
+								"item": "minecraft:diamond_block"
+							},
+							"g": {
+								"item": "minecraft:glowstone"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:netherstar"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:star"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" d ",
+								"dgd",
+								" d "
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:diamond_block"
+								},
+								"g": {
+									"item": "minecraft:glowstone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:netherstar"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:star"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:star"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" d ",
+								"dgd",
+								" d "
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:diamond_block"
+								},
+								"g": {
+									"item": "minecraft:glowstone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:netherstar"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:star"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" d ",
+								"dgd",
+								" d "
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:diamond_block"
+								},
+								"g": {
+									"item": "minecraft:glowstone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:netherstar"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							" d ",
+							"dgd",
+							" d "
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:star"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" d ",
+								"dgd",
+								" d "
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:diamond_block"
+								},
+								"g": {
+									"item": "minecraft:glowstone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:netherstar"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"d": {
+										"item": "minecraft:diamond_block"
+									},
+									"g": {
+										"item": "minecraft:glowstone"
+									}
+								},
+								"key": "d",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:diamond_block"
+								}
+							},
+							{
+								"open": {
+									"d": {
+										"item": "minecraft:diamond_block"
+									},
+									"g": {
+										"item": "minecraft:glowstone"
+									}
+								},
+								"key": "g",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:glowstone"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:star"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" d ",
+								"dgd",
+								" d "
+							],
+							"key": {
+								"d": {
+									"item": "minecraft:diamond_block"
+								},
+								"g": {
+									"item": "minecraft:glowstone"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:netherstar"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:netherstar"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:netherstar"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

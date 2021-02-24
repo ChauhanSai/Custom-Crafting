@@ -1,0 +1,37 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:watercolor13"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ccb"
+		],
+		"key": {
+			"c": {
+				"item": "minecraft:dye",
+				"data": 13
+			},
+			"b": {
+				"item": "minecraft:bucket",
+				"data": 8
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:dye",
+				"data": 13,
+				"count": 4
+			},
+			{
+				"item": "minecraft:bucket",
+				"data": 0,
+				"count": 1
+			}
+		]
+	}
+}

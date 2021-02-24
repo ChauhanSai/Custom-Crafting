@@ -1,0 +1,302 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/witherrose.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "215e8b94_56a2_4f04_9613_bbd290319b92",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:witherrose"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"bbb",
+							"brb",
+							"bbb"
+						],
+						"key": {
+							"b": {
+								"item": "minecraft:dye",
+								"data": 16
+							},
+							"r": {
+								"item": "minecraft:red_flower",
+								"data": 0
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:wither_rose"
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:witherrose"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"bbb",
+							"brb",
+							"bbb"
+						],
+						"key": {
+							"b": {
+								"item": "minecraft:dye",
+								"data": 16
+							},
+							"r": {
+								"item": "minecraft:red_flower",
+								"data": 0
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:wither_rose"
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:witherrose"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"brb",
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:dye",
+									"data": 16
+								},
+								"r": {
+									"item": "minecraft:red_flower",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:wither_rose"
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:witherrose"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:witherrose"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"brb",
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:dye",
+									"data": 16
+								},
+								"r": {
+									"item": "minecraft:red_flower",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:wither_rose"
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:witherrose"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"brb",
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:dye",
+									"data": 16
+								},
+								"r": {
+									"item": "minecraft:red_flower",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:wither_rose"
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"bbb",
+							"brb",
+							"bbb"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:witherrose"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"brb",
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:dye",
+									"data": 16
+								},
+								"r": {
+									"item": "minecraft:red_flower",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:wither_rose"
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"b": {
+										"item": "minecraft:dye",
+										"data": 16
+									},
+									"r": {
+										"item": "minecraft:red_flower",
+										"data": 0
+									}
+								},
+								"key": "b",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dye",
+									"data": 16
+								}
+							},
+							{
+								"open": {
+									"b": {
+										"item": "minecraft:dye",
+										"data": 16
+									},
+									"r": {
+										"item": "minecraft:red_flower",
+										"data": 0
+									}
+								},
+								"key": "r",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:red_flower",
+									"data": 0
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:witherrose"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"brb",
+								"bbb"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:dye",
+									"data": 16
+								},
+								"r": {
+									"item": "minecraft:red_flower",
+									"data": 0
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:wither_rose"
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:wither_rose"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:wither_rose"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

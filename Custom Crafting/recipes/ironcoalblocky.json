@@ -1,0 +1,25 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:ironcoalblocky"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"bbb"
+		],
+		"key": {
+			"b": {
+				"item": "minecraft:coal_block"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:iron_ingot"
+			}
+		]
+	}
+}

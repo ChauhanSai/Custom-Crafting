@@ -1,0 +1,28 @@
+//bridge-file-version: #8
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:redcoralfan"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:tallgrass"
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 1,
+				"count": 2
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:coral_fan",
+				"data": 3
+			}
+		]
+	}
+}

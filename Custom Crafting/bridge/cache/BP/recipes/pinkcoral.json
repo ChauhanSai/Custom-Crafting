@@ -1,0 +1,241 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\pinkcoral.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "2a5f215a_10ac_4a68_8ec6_6db9aca80a70",
+	"file_version": 4,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:pinkcoral"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:tallgrass"
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 9,
+								"count": 3
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:coral",
+								"data": 1
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:pinkcoral"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:tallgrass"
+							},
+							{
+								"item": "minecraft:dye",
+								"data": 9,
+								"count": 3
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:coral",
+								"data": 1
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:pinkcoral"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 9,
+									"count": 3
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral",
+									"data": 1
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:pinkcoral"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:pinkcoral"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 9,
+									"count": 3
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral",
+									"data": 1
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:pinkcoral"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 9,
+									"count": 3
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral",
+									"data": 1
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:tallgrass"
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 9,
+										"count": 3
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:tallgrass"
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:tallgrass"
+									},
+									{
+										"item": "minecraft:dye",
+										"data": 9,
+										"count": 3
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dye",
+									"data": 9,
+									"count": 3
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:pinkcoral"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:tallgrass"
+								},
+								{
+									"item": "minecraft:dye",
+									"data": 9,
+									"count": 3
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:coral",
+									"data": 1
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:coral",
+										"data": 1
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:coral",
+									"data": 1
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

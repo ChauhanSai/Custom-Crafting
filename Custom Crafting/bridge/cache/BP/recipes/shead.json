@@ -1,0 +1,291 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\shead.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "b91b730d_8c4a_45f0_96f9_8b3cb3ae4539",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:shead"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							" i ",
+							"iei",
+							" i "
+						],
+						"key": {
+							"i": {
+								"item": "minecraft:bone"
+							},
+							"e": {
+								"item": "minecraft:dragon_egg"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:skull",
+								"data": 0
+							}
+						]
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:shead"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							" i ",
+							"iei",
+							" i "
+						],
+						"key": {
+							"i": {
+								"item": "minecraft:bone"
+							},
+							"e": {
+								"item": "minecraft:dragon_egg"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:skull",
+								"data": 0
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:shead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" i ",
+								"iei",
+								" i "
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:bone"
+								},
+								"e": {
+									"item": "minecraft:dragon_egg"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:skull",
+									"data": 0
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:shead"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:shead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" i ",
+								"iei",
+								" i "
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:bone"
+								},
+								"e": {
+									"item": "minecraft:dragon_egg"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:skull",
+									"data": 0
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:shead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" i ",
+								"iei",
+								" i "
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:bone"
+								},
+								"e": {
+									"item": "minecraft:dragon_egg"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:skull",
+									"data": 0
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							" i ",
+							"iei",
+							" i "
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:shead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" i ",
+								"iei",
+								" i "
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:bone"
+								},
+								"e": {
+									"item": "minecraft:dragon_egg"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:skull",
+									"data": 0
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"i": {
+										"item": "minecraft:bone"
+									},
+									"e": {
+										"item": "minecraft:dragon_egg"
+									}
+								},
+								"key": "i",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:bone"
+								}
+							},
+							{
+								"open": {
+									"i": {
+										"item": "minecraft:bone"
+									},
+									"e": {
+										"item": "minecraft:dragon_egg"
+									}
+								},
+								"key": "e",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:dragon_egg"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:shead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								" i ",
+								"iei",
+								" i "
+							],
+							"key": {
+								"i": {
+									"item": "minecraft:bone"
+								},
+								"e": {
+									"item": "minecraft:dragon_egg"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:skull",
+									"data": 0
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:skull",
+										"data": 0
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:skull",
+									"data": 0
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,212 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting/recipes/chainhead.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "00fd6afa_222e_4cc0_8890_5c7fcca68f98",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:chainhead"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"XXX",
+							"X X"
+						],
+						"key": {
+							"X": {
+								"item": "minecraft:chain"
+							}
+						},
+						"result": {
+							"item": "minecraft:chainmail_helmet"
+						}
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:chainhead"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"XXX",
+							"X X"
+						],
+						"key": {
+							"X": {
+								"item": "minecraft:chain"
+							}
+						},
+						"result": {
+							"item": "minecraft:chainmail_helmet"
+						}
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainhead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"XXX",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_helmet"
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:chainhead"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainhead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"XXX",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_helmet"
+							}
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainhead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"XXX",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_helmet"
+							}
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"XXX",
+							"X X"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainhead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"XXX",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_helmet"
+							}
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"X": {
+										"item": "minecraft:chain"
+									}
+								},
+								"key": "X",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:chain"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:chainhead"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"XXX",
+								"X X"
+							],
+							"key": {
+								"X": {
+									"item": "minecraft:chain"
+								}
+							},
+							"result": {
+								"item": "minecraft:chainmail_helmet"
+							}
+						},
+						"key": "result",
+						"is_minified": true,
+						"children": {
+							"item": "minecraft:chainmail_helmet"
+						}
+					}
+				]
+			}
+		]
+	}
+}

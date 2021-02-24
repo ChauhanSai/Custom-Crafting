@@ -1,0 +1,24 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:mbr"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:red_mushroom",
+				"count": 9
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:red_mushroom_block",
+				"data": 1
+			}
+		]
+	}
+}

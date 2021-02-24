@@ -1,0 +1,26 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:sapplanks"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ss",
+			"ss"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:sapling"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:planks"
+			}
+		]
+	}
+}

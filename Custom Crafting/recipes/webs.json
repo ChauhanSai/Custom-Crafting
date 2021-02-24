@@ -1,0 +1,31 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:webs"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"sss",
+			"sbs",
+			"sss"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:string"
+			},
+			"b": {
+				"item": "minecraft:slime_ball"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:web",
+				"count": 4
+			}
+		]
+	}
+}

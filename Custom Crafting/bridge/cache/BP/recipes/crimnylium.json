@@ -1,0 +1,261 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\crimnylium.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "9c157ad6_82bb_48b9_ba95_15045e0f76fe",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shaped": {
+						"description": {
+							"identifier": "csccrafting:crimnylium"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"pattern": [
+							"bbb",
+							"bbb",
+							"ddd"
+						],
+						"key": {
+							"b": {
+								"item": "minecraft:crimson_fungus"
+							},
+							"d": {
+								"item": "minecraft:netherrack"
+							}
+						},
+						"result": [
+							{
+								"item": "minecraft:crimson_nylium",
+								"count": 4
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shaped",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimnylium"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:crimson_fungus"
+								},
+								"d": {
+									"item": "minecraft:netherrack"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:crimson_nylium",
+									"count": 4
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:crimnylium"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimnylium"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:crimson_fungus"
+								},
+								"d": {
+									"item": "minecraft:netherrack"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:crimson_nylium",
+									"count": 4
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimnylium"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:crimson_fungus"
+								},
+								"d": {
+									"item": "minecraft:netherrack"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:crimson_nylium",
+									"count": 4
+								}
+							]
+						},
+						"key": "pattern",
+						"is_minified": true,
+						"children": [
+							"bbb",
+							"bbb",
+							"ddd"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimnylium"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:crimson_fungus"
+								},
+								"d": {
+									"item": "minecraft:netherrack"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:crimson_nylium",
+									"count": 4
+								}
+							]
+						},
+						"key": "key",
+						"children": [
+							{
+								"open": {
+									"b": {
+										"item": "minecraft:crimson_fungus"
+									},
+									"d": {
+										"item": "minecraft:netherrack"
+									}
+								},
+								"key": "b",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:crimson_fungus"
+								}
+							},
+							{
+								"open": {
+									"b": {
+										"item": "minecraft:crimson_fungus"
+									},
+									"d": {
+										"item": "minecraft:netherrack"
+									}
+								},
+								"key": "d",
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:netherrack"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:crimnylium"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"pattern": [
+								"bbb",
+								"bbb",
+								"ddd"
+							],
+							"key": {
+								"b": {
+									"item": "minecraft:crimson_fungus"
+								},
+								"d": {
+									"item": "minecraft:netherrack"
+								}
+							},
+							"result": [
+								{
+									"item": "minecraft:crimson_nylium",
+									"count": 4
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:crimson_nylium",
+										"count": 4
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:crimson_nylium",
+									"count": 4
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

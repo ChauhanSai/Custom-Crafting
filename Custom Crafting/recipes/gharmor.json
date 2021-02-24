@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:gharmor"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"  i",
+			"isi",
+			"i i"
+		],
+		"key": {
+			"i": {
+				"item": "minecraft:gold_ingot"
+			},
+			"s": {
+				"item": "minecraft:saddle"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:horsearmorgold"
+			}
+		]
+	}
+}

@@ -1,0 +1,27 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:rabbitfoot"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"l ",
+			"l ",
+			"ll"
+		],
+		"key": {
+			"l": {
+				"item": "minecraft:rabbit_hide"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:rabbit_foot"
+			}
+		]
+	}
+}

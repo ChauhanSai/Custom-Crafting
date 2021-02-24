@@ -1,0 +1,30 @@
+//bridge-file-version: #0
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "7739a8c7-690e-4175-9e12-5f6f5d1f3c84",
+		"version": [
+			6,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "63654476-40e1-4b90-900b-6a73c2486c88",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

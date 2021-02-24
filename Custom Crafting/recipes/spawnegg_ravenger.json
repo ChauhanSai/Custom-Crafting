@@ -1,0 +1,39 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:spawnegg_ravenger"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"mim",
+			"ses",
+			"mim"
+		],
+		"key": {
+			"m": {
+				"item": "minecraft:dye",
+				"data": "8"
+			},
+			"s": {
+				"item": "minecraft:dye",
+				"data": "8"
+			},
+			"e": {
+				"item": "minecraft:egg"
+			},
+			"i": {
+				"item": "minecraft:saddle"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:spawn_egg",
+				"data": "59"
+			}
+		]
+	}
+}

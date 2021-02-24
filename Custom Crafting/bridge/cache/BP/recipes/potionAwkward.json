@@ -1,0 +1,206 @@
+{
+	"file_path": "C:\\Users\\chauh\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Custom Crafting\\recipes\\potionAwkward.json",
+	"file_type": "recipe",
+	"format_version": 1,
+	"file_uuid": "a7a1416e_8023_4dee_9d1d_582cbbbaef5e",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:recipe_shapeless": {
+						"description": {
+							"identifier": "csccrafting:potionawkward"
+						},
+						"tags": [
+							"crafting_table"
+						],
+						"ingredients": [
+							{
+								"item": "minecraft:potion",
+								"data": 0
+							},
+							{
+								"item": "minecraft:nether_wart"
+							}
+						],
+						"result": [
+							{
+								"item": "minecraft:potion",
+								"data": 4
+							}
+						]
+					}
+				},
+				"key": "minecraft:recipe_shapeless",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:potionawkward"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:potion",
+									"data": 0
+								},
+								{
+									"item": "minecraft:nether_wart"
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:potion",
+									"data": 4
+								}
+							]
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "csccrafting:potionawkward"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:potionawkward"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:potion",
+									"data": 0
+								},
+								{
+									"item": "minecraft:nether_wart"
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:potion",
+									"data": 4
+								}
+							]
+						},
+						"key": "tags",
+						"is_minified": true,
+						"children": [
+							"crafting_table"
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:potionawkward"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:potion",
+									"data": 0
+								},
+								{
+									"item": "minecraft:nether_wart"
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:potion",
+									"data": 4
+								}
+							]
+						},
+						"key": "ingredients",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:potion",
+										"data": 0
+									},
+									{
+										"item": "minecraft:nether_wart"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:potion",
+									"data": 0
+								}
+							},
+							{
+								"open": [
+									{
+										"item": "minecraft:potion",
+										"data": 0
+									},
+									{
+										"item": "minecraft:nether_wart"
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:nether_wart"
+								}
+							}
+						]
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "csccrafting:potionawkward"
+							},
+							"tags": [
+								"crafting_table"
+							],
+							"ingredients": [
+								{
+									"item": "minecraft:potion",
+									"data": 0
+								},
+								{
+									"item": "minecraft:nether_wart"
+								}
+							],
+							"result": [
+								{
+									"item": "minecraft:potion",
+									"data": 4
+								}
+							]
+						},
+						"key": "result",
+						"children": [
+							{
+								"open": [
+									{
+										"item": "minecraft:potion",
+										"data": 4
+									}
+								],
+								"is_minified": true,
+								"children": {
+									"item": "minecraft:potion",
+									"data": 4
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

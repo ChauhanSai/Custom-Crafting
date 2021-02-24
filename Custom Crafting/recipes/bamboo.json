@@ -1,0 +1,27 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:bamboo"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ss",
+			"ss",
+			"ss"
+		],
+		"key": {
+			"s": {
+				"item": "minecraft:wheat_seeds"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:bamboo"
+			}
+		]
+	}
+}

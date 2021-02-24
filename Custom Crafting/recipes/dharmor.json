@@ -1,0 +1,30 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:dharmor"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"  i",
+			"isi",
+			"i i"
+		],
+		"key": {
+			"i": {
+				"item": "minecraft:diamond"
+			},
+			"s": {
+				"item": "minecraft:saddle"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:horsearmordiamond"
+			}
+		]
+	}
+}

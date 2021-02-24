@@ -1,0 +1,32 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:sball"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" g ",
+			"gsg",
+			" g "
+		],
+		"key": {
+			"g": {
+				"item": "minecraft:dye",
+				"data": 2
+			},
+			"s": {
+				"item": "minecraft:string"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:slime_ball",
+				"count": 2
+			}
+		]
+	}
+}
