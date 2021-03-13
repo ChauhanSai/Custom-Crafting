@@ -9,12 +9,10 @@
 			"crafting_table"
 		],
 		"pattern": [
-			"i",
-			"i",
-			"i"
+			"aaa"
 		],
 		"key": {
-			"i": {
+			"a": {
 				"item": "minecraft:iron_ingot"
 			}
 		},

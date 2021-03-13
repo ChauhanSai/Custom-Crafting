@@ -945,6 +945,60 @@
 				"furnace",
 				"smoker"
 			]
+		},
+		"BP/recipes/dyegreenfromvine.json": {
+			"tags": [
+				"furnace",
+				"smoker"
+			]
+		},
+		"BP/recipes/dyegreenfromcactismoke.json": {
+			"tags": [
+				"smoker"
+			]
+		},
+		"BP/recipes/dyelimefrombamboo.json": {
+			"tags": [
+				"furnace",
+				"smoker"
+			]
+		},
+		"BP/recipes/dyeblackfromcoal.json": {
+			"tags": [
+				"furnace",
+				"smoker"
+			]
+		},
+		"BP/recipes/greenfromlimeblack.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/dyeorangefrompumpkin.json": {
+			"tags": [
+				"furnace",
+				"smoker"
+			]
+		},
+		"BP/recipes/chainmail_boots.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/chainmail_chestplate.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/chainmail_helmet.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/chainmail_leggings.json": {
+			"tags": [
+				"crafting_table"
+			]
 		}
 	}
 }

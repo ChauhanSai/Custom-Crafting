@@ -1,26 +1,28 @@
-//bridge-file-version: #6
+//bridge-file-version: #0
 {
 	"format_version": "1.16.0",
-	"minecraft:recipe_shapeless": {
+	"minecraft:recipe_shaped": {
 		"description": {
 			"identifier": "csccrafting:blackstone"
 		},
 		"tags": [
 			"crafting_table"
 		],
-		"ingredients": [
-			{
+		"pattern": [
+			"ab"
+		],
+		"key": {
+			"a": {
 				"item": "minecraft:stone"
 			},
-			{
+			"b": {
 				"item": "minecraft:dye",
 				"data": 16
 			}
-		],
+		},
 		"result": [
 			{
-				"item": "minecraft:blackstone",
-				"count": 1
+				"item": "minecraft:blackstone"
 			}
 		]
 	}

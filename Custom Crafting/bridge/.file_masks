@@ -568,5 +568,35 @@
 	},
 	"BP/recipes/dirtfrompodzol.json": {
 		"data": {}
+	},
+	"BP/recipes/dyegreenfromvine.json": {
+		"data": {}
+	},
+	"BP/recipes/dyegreenfromcactismoke.json": {
+		"data": {}
+	},
+	"BP/recipes/dyelimefrombamboo.json": {
+		"data": {}
+	},
+	"BP/recipes/dyeblackfromcoal.json": {
+		"data": {}
+	},
+	"BP/recipes/greenfromlimeblack.json": {
+		"data": {}
+	},
+	"BP/recipes/dyeorangefrompumpkin.json": {
+		"data": {}
+	},
+	"BP/recipes/chainmail_boots.json": {
+		"data": {}
+	},
+	"BP/recipes/chainmail_chestplate.json": {
+		"data": {}
+	},
+	"BP/recipes/chainmail_helmet.json": {
+		"data": {}
+	},
+	"BP/recipes/chainmail_leggings.json": {
+		"data": {}
 	}
 }

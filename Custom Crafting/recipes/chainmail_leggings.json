@@ -1,18 +1,21 @@
 //bridge-file-version: #1
 {
 	"format_version": "1.16.0",
-	"minecraft:recipe_shapeless": {
+	"minecraft:recipe_shaped": {
 		"description": {
 			"identifier": "csccrafting:chainmail_leggings"
 		},
 		"tags": [
 			"crafting_table"
 		],
-		"ingredients": [
-			{
+		"pattern": [
+			"a"
+		],
+		"key": {
+			"a": {
 				"item": "minecraft:chainmail_leggings"
 			}
-		],
+		},
 		"result": [
 			{
 				"item": "minecraft:chain"

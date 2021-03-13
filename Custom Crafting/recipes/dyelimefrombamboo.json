@@ -1,0 +1,15 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "csccrafting:dyelimefrombamboo"
+		},
+		"tags": [
+			"furnace",
+			"smoker"
+		],
+		"input": "minecraft:bamboo",
+		"output": "minecraft:dye:10"
+	}
+}
