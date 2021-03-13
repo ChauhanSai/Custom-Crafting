@@ -559,5 +559,14 @@
 	},
 	"BP/recipes/dye_.json": {
 		"data": {}
+	},
+	"BP/recipes/dirtfromgrass.json": {
+		"data": {}
+	},
+	"BP/recipes/dirtfrommycelium.json": {
+		"data": {}
+	},
+	"BP/recipes/dirtfrompodzol.json": {
+		"data": {}
 	}
 }

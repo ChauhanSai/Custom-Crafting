@@ -927,6 +927,24 @@
 			"tags": [
 				"crafting_table"
 			]
+		},
+		"BP/recipes/dirtfromgrass.json": {
+			"tags": [
+				"furnace",
+				"smoker"
+			]
+		},
+		"BP/recipes/dirtfrommycelium.json": {
+			"tags": [
+				"furnace",
+				"smoker"
+			]
+		},
+		"BP/recipes/dirtfrompodzol.json": {
+			"tags": [
+				"furnace",
+				"smoker"
+			]
 		}
 	}
 }

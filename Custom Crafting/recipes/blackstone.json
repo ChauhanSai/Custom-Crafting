@@ -1,4 +1,4 @@
-//bridge-file-version: #4
+//bridge-file-version: #6
 {
 	"format_version": "1.16.0",
 	"minecraft:recipe_shapeless": {
@@ -10,8 +10,7 @@
 		],
 		"ingredients": [
 			{
-				"item": "minecraft:stone",
-				"data": 0
+				"item": "minecraft:stone"
 			},
 			{
 				"item": "minecraft:dye",
@@ -21,8 +20,7 @@
 		"result": [
 			{
 				"item": "minecraft:blackstone",
-				"count": 1,
-				"data": 0
+				"count": 1
 			}
 		]
 	}
