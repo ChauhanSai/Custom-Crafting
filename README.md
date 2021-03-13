@@ -1,6 +1,8 @@
 # Custom Crafting v6
 #### 250+ Recipes
 
+<img src="https://static.wixstatic.com/media/0153ce_c74c064347534eda93a0e0f6e957d66c~mv2.png" alt="Custom Crafting Logo" width="640"/>
+
 ## What's new?
 This rework of Custom Crafting now transitions into the Bedrock scripting base with custom recipes that can be used in any world using normal crafting tables and furnaces. This pack includes 250+ recipes, over 200 more than the last version. If you prefer the old version of Custom Crafting you can find that [here](https://chauhansaimc.wixsite.com/chauhan-sai-mc/post/custom-crafting-v5-minecraft-bedrock-map-download). As always, use the form below to suggest a recipe to be used in the next version of Custom Crafting. 
 
