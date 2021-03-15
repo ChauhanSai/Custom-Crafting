@@ -1,0 +1,39 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:spawnegg_strider"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ada",
+			"bcb",
+			"ada"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:dye",
+				"data": 16
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 1
+			},
+			"c": {
+				"item": "minecraft:egg"
+			},
+			"d": {
+				"item": "minecraft:string"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:spawn_egg",
+				"data": 125
+			}
+		]
+	}
+}

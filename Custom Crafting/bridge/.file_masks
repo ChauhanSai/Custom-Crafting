@@ -598,5 +598,14 @@
 	},
 	"BP/recipes/chainmail_leggings.json": {
 		"data": {}
+	},
+	"BP/recipes/spawnegg_hoglin.json": {
+		"data": {}
+	},
+	"BP/recipes/spawnegg_piglin.json": {
+		"data": {}
+	},
+	"BP/recipes/spawnegg_strider.json": {
+		"data": {}
 	}
 }

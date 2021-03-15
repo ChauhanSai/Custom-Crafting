@@ -1,0 +1,26 @@
+//bridge-file-version: #5
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "csccrafting:warpshroom2"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:brown_mushroom"
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 6
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:warped_fungus"
+			}
+		]
+	}
+}

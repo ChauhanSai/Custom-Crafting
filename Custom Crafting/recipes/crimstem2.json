@@ -1,0 +1,29 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:crimstem2"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"abb"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:log2"
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 1
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:crimson_stem"
+			}
+		]
+	}
+}

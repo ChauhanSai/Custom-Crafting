@@ -999,6 +999,21 @@
 			"tags": [
 				"crafting_table"
 			]
+		},
+		"BP/recipes/spawnegg_hoglin.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/spawnegg_piglin.json": {
+			"tags": [
+				"crafting_table"
+			]
+		},
+		"BP/recipes/spawnegg_strider.json": {
+			"tags": [
+				"crafting_table"
+			]
 		}
 	}
 }
