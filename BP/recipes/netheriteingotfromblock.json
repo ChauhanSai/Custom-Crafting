@@ -1,0 +1,29 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:netheriteingotfromblock"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"aaa",
+			"aab"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:netherite_scrap"
+			},
+			"b": {
+				"item": "minecraft:gold_block"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:netherite_ingot",
+				"count": 2
+			}
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "csccrafting:dyegreenfromvine"
+		},
+		"tags": [
+			"furnace",
+			"smoker"
+		],
+		"input": "minecraft:vine",
+		"output": "minecraft:dye:2"
+	}
+}

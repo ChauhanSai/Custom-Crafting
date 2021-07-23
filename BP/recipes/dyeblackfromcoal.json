@@ -1,0 +1,14 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "csccrafting:dyeblackfromcoal"
+		},
+		"tags": [
+			"furnace",
+			"smoker"
+		],
+		"input": "minecraft:coal",
+		"output": "minecraft:dye:16"
+	}
+}

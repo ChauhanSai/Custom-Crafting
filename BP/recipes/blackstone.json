@@ -1,0 +1,28 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:blackstone"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ab"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:stone"
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 16
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:blackstone"
+			}
+		]
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:spawnegg_hoglin"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ada",
+			"bcb",
+			"ada"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:dye",
+				"data": 2
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 9
+			},
+			"c": {
+				"item": "minecraft:egg"
+			},
+			"d": {
+				"item": "minecraft:porkchop"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:spawn_egg",
+				"data": 124
+			}
+		]
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:discpigstep"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" a ",
+			"bcb",
+			" a "
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:dye",
+				"data": 16
+			},
+			"b": {
+				"item": "minecraft:netherrack"
+			},
+			"c": {
+				"item": "minecraft:gold_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:record_pigstep"
+			}
+		]
+	}
+}

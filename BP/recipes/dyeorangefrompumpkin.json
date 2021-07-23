@@ -1,0 +1,14 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "csccrafting:dyeorangefrompumpkin"
+		},
+		"tags": [
+			"furnace",
+			"smoker"
+		],
+		"input": "minecraft:pumpkin",
+		"output": "minecraft:dye:14"
+	}
+}

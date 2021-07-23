@@ -1,0 +1,28 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "csccrafting:crimroots"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ab"
+		],
+		"key": {
+			"a": {
+				"item": "minecraft:tallgrass"
+			},
+			"b": {
+				"item": "minecraft:dye",
+				"data": 1
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:crimson_roots"
+			}
+		]
+	}
+}

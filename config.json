@@ -1,0 +1,14 @@
+{
+	"type": "minecraftBedrock",
+	"packs": {
+		"behaviorPack": "./BP"
+	},
+	"bridge": {
+		"v1CompatMode": true
+	},
+	"capabilities": [],
+	"namespace": "csccrafting",
+	"targetVersion": "1.16.0",
+	"name": "Custom Crafting",
+	"description": "This Behavior pack adds 250+ recipes for vanilla blocks and items"
+}
